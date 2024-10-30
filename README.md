@@ -1,8 +1,9 @@
 # Steampunk Revenge - PC Game
 
+
 ## Game Overview
 
-In **Steampunk Revenge**, players are transported to a dystopian world where humanity and wildlife face extinction due to the control of a powerful android, Strokes, and the Alpha organization. The player, accompanied by a wise Red Panda, must uncover their mentor’s hidden research to unlock abilities that can restore the planet and ultimately defeat Strokes.
+This project is a steampunk adventure game developed for the PC using **Unity**. In **Steampunk Revenge**, players are transported to a dystopian world where humanity and wildlife face extinction due to the control of a powerful android, Strokes, and the Alpha organization. The player, accompanied by a wise Red Panda, must uncover their mentor’s hidden research to unlock abilities that can restore the planet and ultimately defeat Strokes.
 
 ## Game Features
 
