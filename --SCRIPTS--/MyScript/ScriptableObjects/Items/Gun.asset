@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 993fe3b60fb0233499d1afec243ee2c7, type: 3}
+  m_Name: Gun
+  m_EditorClassIdentifier: 
+  itemName: Gun Classic
+  description: 'Pistola classica.
+
+    Danno 100'
+  stackSize: 0
+  type: 2
+  icon: {fileID: 21300000, guid: 3e243f6fa42ccf245b521f312987ba25, type: 3}
+  prefab: {fileID: 3453115871193087992, guid: f8e52437ffba68e45b94565a84b1d21f, type: 3}
