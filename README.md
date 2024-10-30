@@ -11,6 +11,16 @@ In **Steampunk Revenge**, players are transported to a dystopian world where hum
 - **Abilities & Weapons**: Use a powerful mechanical arm and unlock special powers derived from nature and space-time elements to overcome challenges and destroy enemies.
 - **Global Ranking**: Track your progress and compete with others through collected stats and environmental restoration achievements.
 
+- **Movement**: Fluid character movement mechanics for a seamless gameplay experience.
+- **Attacks**: Standard and special attack options with engaging animations.
+- **VFX**: Stunning visual effects that enhance gameplay and immersion.
+- **Audio**: Dynamic sound effects that bring the steampunk world to life.
+- **Defense**: Robust defensive mechanics allowing players to strategize against enemies.
+- **Enemy Movement**: Intelligent enemy movement patterns for challenging encounters.
+- **Enemy AI**: Advanced AI systems that adapt to player actions for increased difficulty.
+- **Environment**: Richly designed environments that reflect the steampunk aesthetic.
+- **Story**: A compelling narrative that unfolds as players progress through the game.
+  
 ## Objectives
 
 - **Primary Goal**: Gather all research and components to build a machine capable of defeating Strokes.
@@ -31,33 +41,13 @@ In **Steampunk Revenge**, players are transported to a dystopian world where hum
 - **Q**: Dash
 - **Mouse Cursor**: Adjust view
 - **G**: Call red panda companion
-- **E (near panda)**: Pet companion
-
-### Attack and Defense Controls
-- **R**: Basic punch
-- **Hold R for 3s**: Charged punch
-- **C**: Equip/unequip weapon
-- **R (with object)**: Attack with equipped object
-- **Left-click + Aim**: Throw object
-- **T**: Defense
+  
 
 
-### Interaction Controls
-- **E**: Collect object
-- **E (near climbable surfaces)**: Climb
-- **Q (while climbing)**: Climb boost
-- **E (near merchant)**: Interact with merchant
-
-- **Water Selected**:
-  - **E (near water bodies)**: Purify water
-
-- **Air Selected**:
-  - **E (near toxic clouds)**: Clear toxic air
-
-- **Earth Selected**:
-  - **E (near trees/plants)**: Revitalize plant life
 ---
 
 ## Demo
 You can view the demo at the following link: https://drive.google.com/file/d/1lbcZSar5RvZfkCdr0h0KMvqiLowxWCMp/view?usp=drive_link
-Embark on a journey of discovery, resilience, and environmental restoration!
+
+## Contact
+For more information, feedback, or inquiries, please contact me at fabio.dimola98@gmail.com
