@@ -41,49 +41,6 @@ In **Steampunk Revenge**, players are transported to a dystopian world where hum
 - **Left-click + Aim**: Throw object
 - **T**: Defense
 
-#### Using Special Abilities
-To activate different abilities, select a gem:
-- **1**: Space-Time Gem
-- **2**: Four Elements Gem
-- **3**: Philosopher's Gem
-
-##### Space-Time Gem Abilities
-- **R**: Punch
-- **Hold R for 3s**: Charged punch
-- **R (with object)**: Attack with object
-- **T**: Defense
-- **Left-click + Cursor**: Teleport to target
-- **Right-click + Cursor (x2)**: Open portals
-- **Middle-click**: Slow time
-- **Hold C for 5s**: Power-up
-
-##### Four Elements Gem Abilities
-Choose an element to access related abilities:
-  - **Fire**:
-    - **R**: Fire Punch
-    - **Hold R for 4s**: Super Fire Punch
-    - **Left-click**: Fireballs
-    - **R (x3)**: Fire Punch Combo
-    - **T**: Defense
-
-  - **Water**:
-    - **R**: Water Punch
-    - **Left-click**: Waterball
-    - **Double T**: Water Wall
-    - **T**: Defense
-
-  - **Earth**:
-    - **R**: Earth Punch
-    - **Hold R for 3s**: Earthquake Punch
-    - **Double T**: Rock Wall
-    - **T**: Defense
-
-  - **Air**:
-    - **T**: Air Punch
-    - **Hold Left-click (up to 8s)**: Charge and throw Static Energy Ball
-    - **F**: Lightning Strike
-    - **T**: Defense
-    - **Middle-click**: Electric Power-up
 
 ### Interaction Controls
 - **E**: Collect object
@@ -101,4 +58,6 @@ Choose an element to access related abilities:
   - **E (near trees/plants)**: Revitalize plant life
 ---
 
+## Demo
+You can view the demo at the following link: https://drive.google.com/file/d/1lbcZSar5RvZfkCdr0h0KMvqiLowxWCMp/view?usp=drive_link
 Embark on a journey of discovery, resilience, and environmental restoration!
